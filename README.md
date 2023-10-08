@@ -15,5 +15,5 @@ normalization layer were some of our approach to try and improve this paper.
 
 
 
-#Acknowledgement
+# Acknowledgement
 Our code is based on https://github.com/TencentYoutuResearch/ActiveLearning-SDM
