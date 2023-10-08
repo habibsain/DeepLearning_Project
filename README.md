@@ -16,7 +16,7 @@ normalization layer were some of our approach to try and improve this paper.
 
 # Report
 
-Original paper: [arXiv](https://arxiv.org/abs/2203.05738)).
+Original paper: [arXiv](https://arxiv.org/abs/2203.05738).
 
 Our report is [Here](https://www.researchgate.net/publication/374535841_Active_Domain_Adaptation_using_Selective_Distinctive_Margin?utm_source=twitter&rgutm_meta1=eHNsLTc2OVdETzFOWlNxeTZpNVJJRkVmRk1ZREROdGpIcGNOQWFkcmZCeDIvak81cnBqYi9VSkhiUEhaYVRUaXp4bVpzeWw2Q1VjTVJ6T2VYRFpQMk1RdDk3bz0%3D)
 
