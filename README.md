@@ -13,6 +13,10 @@ used for domain adaptation. We have implemented the code on different datasets a
 the code in order to get some improvements. Changes in Optimizers, Loss functions and batch
 normalization layer were some of our approach to try and improve this paper.
 
+# Report
+
+Original paper: [arXiv](https://github.com/TencentYoutuResearch/ActiveLearning-SDM)
+Our report is [Here](https://www.researchgate.net/publication/374535841_Active_Domain_Adaptation_using_Selective_Distinctive_Margin?utm_source=twitter&rgutm_meta1=eHNsLTc2OVdETzFOWlNxeTZpNVJJRkVmRk1ZREROdGpIcGNOQWFkcmZCeDIvak81cnBqYi9VSkhiUEhaYVRUaXp4bVpzeWw2Q1VjTVJ6T2VYRFpQMk1RdDk3bz0%3D)
 
 
 # Acknowledgement
