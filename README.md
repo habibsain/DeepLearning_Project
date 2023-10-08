@@ -3,6 +3,7 @@
 
 In this report we analyse and implement the method proposed by
 the authors of the original research paper and try to improve it based on our limited understanding of the field. 
+
 There are several approaches towards
 Domain Adaptation and active learning is one popular method. Despite there being several ac-
 tive domain adaptation (ADA) methods, they are mostly vulnerable to overfitting, and needs
