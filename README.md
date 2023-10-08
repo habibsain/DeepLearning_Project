@@ -1,5 +1,5 @@
 # DeepLearning_Project
-## Active Domain Adaptation using SDM
+### Active Domain Adaptation using SDM
 
 In this report we analyse and implement the method proposed by
 the authors of the original research paper and try to improve it based on our limited understanding of the field. 
